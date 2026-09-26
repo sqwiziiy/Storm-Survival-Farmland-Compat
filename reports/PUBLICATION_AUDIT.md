@@ -1,14 +1,21 @@
 # Publication audit
 
-GitHub repo: NOT PUBLISHED — configured GitHub authentication is invalid and GitHub API access failed.
+GitHub repo: https://github.com/sqwiziiy/storm-survival-farmland-compat
 
-Git commit: NOT CREATED — the workspace's existing `.git` metadata is read-only, so Git initialization/commit could not proceed.
+Git commit:
+6c774ce6e554520e76af03ac4fa96fb36a3d8fd4
 
-GitHub release: NOT CREATED.
+GitHub release:
+v0.1.0+mc1.20.1
 
-Release artifact: `storm-survival-farmland-compat-0.1.0+mc1.20.1.zip`
+Release artifact:
+storm-survival-farmland-compat-0.1.0+mc1.20.1.zip
 
-SHA-256: `0fee6f3d026e61fbfd45dbf5f4265bc71f2108e63edd23d5fe170f94cfb9399f`
+SHA-256:
+0fee6f3d026e61fbfd45dbf5f4265bc71f2108e63edd23d5fe170f94cfb9399f
+
+GitHub: PUBLISHED
+Modrinth: MANUAL_REQUIRED
 
 Minecraft: 1.20.1
 

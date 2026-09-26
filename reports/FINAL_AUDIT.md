@@ -25,6 +25,6 @@ Minecraft manual test: PASS
 
 Release ZIP: `releases/storm-survival-farmland-compat-0.1.0+mc1.20.1.zip`
 
-SHA-256: `6ae4277427bf5e51795dcbe0353279eec56633a5e2c5dd0b62dde09ab4a2f163`
+SHA-256: `0fee6f3d026e61fbfd45dbf5f4265bc71f2108e63edd23d5fe170f94cfb9399f`
 
 Java mod required for remaining compatibility: YES
