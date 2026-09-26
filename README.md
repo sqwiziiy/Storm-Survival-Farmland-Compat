@@ -29,6 +29,16 @@ Tested with:
 - Brewery hops on `regions_unexplored:peat_farmland`.
 - Brewery hops on `regions_unexplored:silt_farmland`.
 
+## Companion mod
+
+Ordinary Farm & Charm and HerbalBrews `CropBlock` crops use a separate
+code-side compatibility path:
+
+[Storm Survival Crop Farmland Compat](https://github.com/sqwiziiy/storm-survival-crop-farmland-compat)
+
+The datapack handles Brewery hops and the tested tomato tag path; the Fabric
+mod handles the selected ordinary crops.
+
 The change extends `#farm_and_charm:farmland` with `replace: false`, preserving the third-party tag's existing values.
 
 ## Installation
