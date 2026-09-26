@@ -47,7 +47,7 @@ Copy the contents of the release ZIP, or the `datapack/` directory contents, int
 
 ## Limitations
 
-Farm & Charm's ordinary crops and HerbalBrews crops use vanilla crop placement behavior and cannot be made universally compatible with arbitrary RU farmland by adding a tag. Vinery grapes use bush/vine/pot support logic rather than farmland. The Farm & Charm tomato family has custom rope/body/head logic and needs separate runtime verification before any broader change.
+Farm & Charm's ordinary crops and HerbalBrews crops use vanilla crop placement behavior and are handled by the companion Fabric mod rather than this datapack. Vinery grapes use bush/vine/pot support logic rather than farmland. The Farm & Charm tomato path was manually verified with this datapack in the tested environment.
 
 This pack does not change growth speed, seasons, hydration, moisture, recipes, world generation, or third-party JARs.
 
