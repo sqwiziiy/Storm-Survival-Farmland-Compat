@@ -1,0 +1,8 @@
+# Local/generated files
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Release ZIPs are generated and attached to GitHub Releases.
+/releases/*.zip
